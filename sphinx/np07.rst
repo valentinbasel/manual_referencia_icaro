@@ -1,0 +1,531 @@
+
+
+placa robotica |pcb|
+====================
+
+El hardware |pcb| 
+
+caracteristicas tecnicas
+------------------------
+
+bla
+
+listado de componentes
+----------------------
+
+.. |R10k|  image:: _static/img/hardware/componentes/resistencia-10k.jpg
+   :width: 40pt
+   :height: 40pt
+.. |R470|  image:: _static/img/hardware/componentes/resistencia-470.jpg
+   :width: 40pt
+   :height: 40pt
+.. |C22pf|  image:: _static/img/hardware/componentes/capacitor-22pf.jpg
+   :width: 40pt
+   :height: 40pt
+.. |C01uf|  image:: _static/img/hardware/componentes/capacitor-01uf.jpg
+   :width: 40pt
+   :height: 40pt
+.. |C220nF|  image:: _static/img/hardware/componentes/capacitor-220nf.jpg
+   :width: 40pt
+   :height: 40pt
+.. |Celectrolitico|  image:: _static/img/hardware/componentes/capacitorelectrolitico.jpg
+   :width: 40pt
+   :height: 40pt
+.. |Celectrolitico100|  image:: _static/img/hardware/componentes/capacitor-100uf.jpg
+   :width: 40pt
+   :height: 40pt
+.. |D1n4007|  image:: _static/img/hardware/componentes/diodo-1n4007.jpg
+   :width: 40pt
+   :height: 40pt
+.. |led|  image:: _static/img/hardware/componentes/led-difusos-5mm.jpg
+   :width: 40pt
+   :height: 40pt
+.. |usb|  image:: _static/img/hardware/componentes/conector-usb-b.jpg
+   :width: 40pt
+   :height: 40pt
+.. |pushbutton|  image:: _static/img/hardware/componentes/pushbutton.jpg
+   :width: 40pt
+   :height: 40pt
+.. |lm7805|  image:: _static/img/hardware/componentes/lm7805.jpg
+   :width: 40pt
+   :height: 40pt
+.. |78l05|  image:: _static/img/hardware/componentes/78L05.jpg
+   :width: 40pt
+   :height: 40pt
+.. |bornera|  image:: _static/img/hardware/componentes/bornera.jpg
+   :width: 40pt
+   :height: 40pt
+.. |zocalo-8|  image:: _static/img/hardware/componentes/zocalo-8.jpg
+   :width: 40pt
+   :height: 40pt
+.. |zocalo-9|  image:: _static/img/hardware/componentes/zocalo-9.jpg
+   :width: 40pt
+   :height: 40pt
+.. |zocalo-20|  image:: _static/img/hardware/componentes/zocalo-20.jpg
+   :width: 40pt
+   :height: 40pt
+.. |cristal-20mhz|  image:: _static/img/hardware/componentes/cristal-20mhz.jpg
+   :width: 40pt
+   :height: 40pt
+.. |pinesmacho|  image:: _static/img/hardware/componentes/pinesmacho.jpg
+   :width: 40pt
+   :height: 40pt
+.. |pineshembra|  image:: _static/img/hardware/componentes/pineshembra.jpg
+   :width: 40pt
+   :height: 40pt
+.. |L293D|  image:: _static/img/hardware/componentes/L293D.jpg
+   :width: 40pt
+   :height: 40pt
+.. |uln2803|  image:: _static/img/hardware/componentes/uln2803.jpg
+   :width: 40pt
+   :height: 40pt
+.. |pic18f4550|  image:: _static/img/hardware/componentes/pic18f4550.jpg
+   :width: 40pt
+   :height: 40pt
+.. |jumper|  image:: _static/img/hardware/componentes/Jumper.jpg
+   :width: 40pt
+   :height: 40pt
+========  ==================================== ======================================== ===========================
+Cantidad  Componente                           Ubicación                                imagen
+========  ==================================== ======================================== ===========================
+11        Resistencias 470 Ohm - 1/4W          R1 R2 R3 R4 R5 R6 R7 R8 R9 R12 R17       |R10K|
+5         Resistencias 10k Ohm - 1/4W          R11 R13 R14 R15 R16                      |R470|
+2         Capacitores Cerámicos 22pF           C2 C3                                    |C22pf|
+5         Capacitores Cerámicos 0.1uF          C9 C10 C11 (C12 C13)*                    |C01uf|
+1         Capacitor Cerámico 220nF             C1                                       |C220nF|
+1         Capacitor Electrol. 10uF 16V         C5                                       |Celectrolitico|
+4         Capacitor Electrol. 100uF            C4 C6 C7 C8                              |Celectrolitico100|
+3         Diodos 1N4007                        D9 D12 D14                               |D1n4007|
+11        Leds difusos 5mm                     D1 D2 D3 D4 D5 D6 D7 D8 D10 D11 D12      |led|
+1         Conector USB hembra Tipo B           J1                                       |usb|
+========  ==================================== ======================================== ===========================
+
+========  ==================================== ======================================== ===========================
+Cantidad  Componente                           Ubicación                                imagen
+========  ==================================== ======================================== ===========================
+1         Push Button (Soft Touch)             SW2                                      |pushbutton|
+1         Regulador de Voltaje LM7805          U4                                       |lm7805|
+1         Regulador de Voltaje 78L05           U5                                       |78l05|
+7         Borneras Dobles                      P8 P9 P10 P11 P12 P13 P14                |bornera|
+1         Zócalo de 8x2 Pines                  U3                                       |zocalo-8|
+1         Zócalo de 20x2 Pines                 U2                                       |zocalo-20|
+1         Zócalo de 9x2 Pines                  P6                                       |zocalo-9|
+1         Cristal de 20Mhz                     X1                                       |cristal-20mhz|
+2         Tira Postes Macho de 40 Pines        K2 K3 K4 K5 K6 SW1 SW3 K1 K8 P4          |pinesmacho|
+1         Tira de Postes Hembra de 40 Pines    P1 P7 P5 P15 P16 P17 P18                 |pineshembra|
+1         Driver L293D (Puente H)              U3                                       |L293D|
+1         Integrado ULN2803                    P6                                       |uln2803|
+1         Microcontrolador PIC18F4550          U2                                       |pic18f4550|
+4         jumper                               SW1 SW3 K1 K8                            |jumper| 
+========  ==================================== ======================================== ===========================
+
+herramientas
+------------
+
+Las herramientas que necesitamos para armar una placa robotica |pcb| 
+son faciles de conseguir y muy comunes para cualquier 
+hobbista de la electronica.
+
+.. figure:: _static/img/hardware/herramientas/soldador.png
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Soldador
+
+Un soldador eléctrico o de estaño, también conocido como cautín, es 
+una herramienta eléctrica usada para soldar. Funciona convirtiendo 
+la energía eléctrica en calor, que a su vez provoca 
+la fusión del material utilizado en la soldadura, como por 
+ejemplo el estaño.
+
+.. raw:: latex
+
+    \newpage
+
+.. figure:: _static/img/hardware/herramientas/estanio.png
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Estaño
+
+El estaño que se utiliza en electrónica tiene alma de resina con el fin 
+de facilitar la soldadura. Para garantizar una buena soldadura es 
+necesario que tanto el estaño como el elemento a soldar alcancen una 
+temperatura determinada, si esta temperatura no se alcanza se produce 
+el fenómeno denominado soldadura fría. La temperatura de fusión 
+depende de la aleación utilizada, cuyo componente principal es 
+el estaño y suele estar comprendida entre unos 200 a 400 ºC.
+
+En realidad, el término "estaño" se emplea de forma impropia 
+porque no se trata de estaño sólo, sino de una aleación de este metal 
+con plomo, generalmente con una proporción respectiva 
+del 60% y del 40%, que resulta ser la más indicada para 
+las soldaduras en Electrónica.
+
+Para realizar una buena soldadura, además del soldador 
+y de la aleación descrita, se necesita una sustancia adicional, 
+llamada pasta de soldar, cuya misión es la de facilitar la distribución 
+uniforme del estaño sobre las superficies a unir y evitando, al mismo 
+tiempo, la oxidación producida por la temperatura demasiado elevada 
+del soldador. La composición de esta pasta es a base de colofonia 
+(normalmente llamada "resina") y que en el caso del estaño que 
+utilizaremos, está contenida dentro de las cavidades del hilo, 
+en una proporción del 2~2.5%.
+
+.. raw:: latex
+
+    \newpage
+
+.. figure:: _static/img/hardware/herramientas/alicate.png
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  alicate para electronica
+
+Un pequeño alicate, para poder cortar el excedente de material (estaño, 
+alambres de las resistensias por ejmplo).
+
+.. raw:: latex
+
+    \newpage
+    
+.. figure:: _static/img/hardware/herramientas/destornillador.png
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  destornillador plano pequeño
+
+Nos sirve para ajustar las borneras y para hacer palanca para sacar un 
+integrado que hayamos puesto en un zocalo.
+
+.. raw:: latex
+
+    \newpage
+    
+.. figure:: _static/img/hardware/herramientas/desoldador.png
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  desoldador de estaño
+  
+El desoldador de estaño, nos permite sacar el estaño que hayamos puesto 
+de mas o para remplazar algun componente efectuoso de la placa robotica |pcb|
+
+.. raw:: latex
+
+    \newpage
+    
+
+fabricacion
+-----------
+
+A continución veremos el paso a paso del armado de la placa |pcb|.
+
+paso 0
+*******
+
+.. figure:: _static/img/hardware/pasos/0b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Vista de la Placa
+
+.. raw:: latex
+
+    \newpage
+    
+paso 1
+*******
+
+.. figure:: _static/img/hardware/pasos/1b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Colocar 5 Puentes
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 2
+*******
+
+.. figure:: _static/img/hardware/pasos/2b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Resistencias de 470 Ohm
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 3
+*******
+
+.. figure:: _static/img/hardware/pasos/3b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Resistencias de 10K Ohm
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 4
+*******
+
+.. figure:: _static/img/hardware/pasos/4b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Diodos 1N4007
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 5
+*******
+
+.. figure:: _static/img/hardware/pasos/5b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Cristal de 20MHz
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 6
+*******
+
+.. figure:: _static/img/hardware/pasos/6b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Capacitores Cerámicos 0,1uF
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 7
+*******
+
+.. figure:: _static/img/hardware/pasos/7b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Capacitores Cerámicos 22pF
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 8
+*******
+
+.. figure:: _static/img/hardware/pasos/8b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Capacitor Cerámico 220nF
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 9
+*******
+
+.. figure:: _static/img/hardware/pasos/9b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Regulador LM7805
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 10
+*******
+
+.. figure:: _static/img/hardware/pasos/10b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Regulador 78L05
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 11
+*******
+
+.. figure:: _static/img/hardware/pasos/11b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Colocar Zócalos
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 12
+*******
+
+.. figure:: _static/img/hardware/pasos/12b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Push Button
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 13
+*******
+
+.. figure:: _static/img/hardware/pasos/13b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Colocar LEDS
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 14
+*******
+
+.. figure:: _static/img/hardware/pasos/14b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Capacitores Electrolíticos 100uF
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 15
+*******
+
+.. figure:: _static/img/hardware/pasos/15b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Capacitor Electrolítico 10uF
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 16
+*******
+
+.. figure:: _static/img/hardware/pasos/16b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Postes Macho
+
+.. raw:: latex
+
+    \newpage
+ 
+paso 17
+*******
+
+.. figure:: _static/img/hardware/pasos/17b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Postes Hembra
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 18
+*******
+
+.. figure:: _static/img/hardware/pasos/18b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Borneras
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 19
+*******
+
+.. figure:: _static/img/hardware/pasos/19b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Conector USB hembra B
+
+.. raw:: latex
+
+    \newpage
+ 
+
+paso 20
+*******
+
+.. figure:: _static/img/hardware/pasos/20b.jpg
+  :align: center
+  :figclass: align-center
+  :width: 300pt
+  
+  Capacitores Cerámicos 0,1uF
+
+.. raw:: latex
+
+    \newpage
+ 

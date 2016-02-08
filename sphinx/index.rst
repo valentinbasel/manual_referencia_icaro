@@ -1,0 +1,22 @@
+.. Proyecto ICARO, Documentación documentation master file, created by
+   sphinx-quickstart on Fri Feb  5 17:32:01 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+=========================================================
+Welcome to Proyecto ICARO, Documentación's documentation!
+=========================================================
+
+Contents:
+
+.. toctree::
+   :maxdepth: 2
+
+   introduccion.rst
+   np07.rst
+   icaro_bloques.rst
+   icaro_bloques_2.rst
+   ejemplos.rst
+   python.rst
+   clemente.rst
+   
+

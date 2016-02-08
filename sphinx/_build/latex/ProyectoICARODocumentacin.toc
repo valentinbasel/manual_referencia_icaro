@@ -1,0 +1,69 @@
+\select@language {english}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}n}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}software libre en la educaci\IeC {\'o}n}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}hardware libre}{4}{section.1.2}
+\contentsline {chapter}{\numberline {2}placa robotica \emph {np07}}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}caracteristicas tecnicas}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}listado de componentes}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}herramientas}{10}{section.2.3}
+\contentsline {section}{\numberline {2.4}fabricacion}{15}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}paso 0}{15}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}paso 1}{16}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}paso 2}{17}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}paso 3}{18}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}paso 4}{19}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}paso 5}{20}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {2.4.7}paso 6}{21}{subsection.2.4.7}
+\contentsline {subsection}{\numberline {2.4.8}paso 7}{22}{subsection.2.4.8}
+\contentsline {subsection}{\numberline {2.4.9}paso 8}{23}{subsection.2.4.9}
+\contentsline {subsection}{\numberline {2.4.10}paso 9}{24}{subsection.2.4.10}
+\contentsline {subsection}{\numberline {2.4.11}paso 10}{25}{subsection.2.4.11}
+\contentsline {subsection}{\numberline {2.4.12}paso 11}{26}{subsection.2.4.12}
+\contentsline {subsection}{\numberline {2.4.13}paso 12}{27}{subsection.2.4.13}
+\contentsline {subsection}{\numberline {2.4.14}paso 13}{28}{subsection.2.4.14}
+\contentsline {subsection}{\numberline {2.4.15}paso 14}{29}{subsection.2.4.15}
+\contentsline {subsection}{\numberline {2.4.16}paso 15}{30}{subsection.2.4.16}
+\contentsline {subsection}{\numberline {2.4.17}paso 16}{31}{subsection.2.4.17}
+\contentsline {subsection}{\numberline {2.4.18}paso 17}{32}{subsection.2.4.18}
+\contentsline {subsection}{\numberline {2.4.19}paso 18}{33}{subsection.2.4.19}
+\contentsline {subsection}{\numberline {2.4.20}paso 19}{34}{subsection.2.4.20}
+\contentsline {subsection}{\numberline {2.4.21}paso 20}{35}{subsection.2.4.21}
+\contentsline {chapter}{\numberline {3}icaro-bloques}{37}{chapter.3}
+\contentsline {section}{\numberline {3.1}barra de herramientas}{37}{section.3.1}
+\contentsline {section}{\numberline {3.2}barra de componentes}{37}{section.3.2}
+\contentsline {section}{\numberline {3.3}editor de bloques}{37}{section.3.3}
+\contentsline {section}{\numberline {3.4}editor de codigo fuente}{37}{section.3.4}
+\contentsline {chapter}{\numberline {4}trabajando con icaro-bloques}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}compilando un proyecto}{39}{section.4.1}
+\contentsline {section}{\numberline {4.2}cargando el firmware a la placa}{39}{section.4.2}
+\contentsline {section}{\numberline {4.3}referencias de los bloques}{39}{section.4.3}
+\contentsline {chapter}{\numberline {5}guia de ejemplos}{41}{chapter.5}
+\contentsline {section}{\numberline {5.1}usando LEDS}{41}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Ejemplo 01}{41}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}ejemplo 02}{41}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Ejemplo 03}{41}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}ejemplo 04}{41}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Ejemplo 05}{41}{subsection.5.1.5}
+\contentsline {section}{\numberline {5.2}usando motores CC}{41}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}hola mundo}{41}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}hola mundo 2}{42}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Ejemplo 01}{42}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}ejemplo 02}{42}{subsection.5.2.4}
+\contentsline {subsection}{\numberline {5.2.5}Ejemplo 03}{42}{subsection.5.2.5}
+\contentsline {section}{\numberline {5.3}usando comunicaci\IeC {\'o}n CDC}{42}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}hola mundo}{42}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}Ejemplo 01}{42}{subsection.5.3.2}
+\contentsline {section}{\numberline {5.4}usando una pantalla LCD}{42}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}Ejemplo 01}{42}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}ejemplo 02}{42}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}usando un sensor hc-sr04}{42}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}ping}{43}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}ping CDC}{43}{subsection.5.5.2}
+\contentsline {chapter}{\numberline {6}python}{45}{chapter.6}
+\contentsline {section}{\numberline {6.1}cargando firmware tortucaro}{45}{section.6.1}
+\contentsline {section}{\numberline {6.2}apicaro}{45}{section.6.2}
+\contentsline {section}{\numberline {6.3}referencia apicaro}{45}{section.6.3}
+\contentsline {chapter}{\numberline {7}clemente}{47}{chapter.7}
+\contentsline {section}{\numberline {7.1}activando servidor clemente}{47}{section.7.1}
+\contentsline {section}{\numberline {7.2}cargando firmware PILAS}{47}{section.7.2}
+\contentsline {section}{\numberline {7.3}graficador}{47}{section.7.3}

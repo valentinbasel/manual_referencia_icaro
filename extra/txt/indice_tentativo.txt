@@ -1,0 +1,54 @@
+-introduccion
+-- robotica educativa
+-- software libre
+-- hardware libre
+
+-placa robotica np07
+-- caracteristicas tecnicas
+-- listado de componentes
+-- herramientas
+-- fabricacion
+
+-icaro-bloques
+-- barra de herramientas
+-- barra de componentes
+-- editor  de bloques
+-- editor de codigo fuente
+
+-trabajando con icaro-bloques
+--compilando un proyecto
+--cargando el firmware a la placa
+--referencias de los bloques
+
+-guia de ejemplos
+-- usando LEDS
+---ej01
+---ej02
+-- usando motores de CC
+---ej01
+---ej02
+-- usando servo motores
+---ej01
+---ej02
+-- usando comunicacion CDC
+---ej01
+---ej02
+-- usando una pantalla LCD
+---ej01
+---ej02
+-- usando un sensor hc-sr04
+---ej01
+---ej02
+
+-python
+--cargando firmware tortucaro
+--apicaro
+--referencia apicaro
+-clemente
+--introducción
+--activando servidor clemente
+--cargando firmware PILAS
+--graficador
+
+ 
+
