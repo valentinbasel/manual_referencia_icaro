@@ -18,7 +18,7 @@ La documentación está escrita en reStructuredText, es un sistema MarkDown muy 
 
 Simplemente tenés que modificar los archivos que tienen la extensión.rst, por ejemplo el archivo index.rst es el que organiza los archivos y luego cada capítulo está en un .rst diferente.
 
-### Generar documentos
+# Generar documentos
 Ahora ya podés generar tus archivos PDF y HTML !
 
 Para generar los documentos en distintos formatos, debemos ingresar a la carpeta  manual_referencia_icaro/sphinx  y ahí ejecutamos la instrucción para generarlo, lo cual va a compilar y generar el archivo en la carpta _build .
@@ -37,5 +37,5 @@ Esto lo exporta a la carpeta _build/html
 
 Espero que te haya resultado fácil! esperamos tus aportes!
 
-## Licencia
+# Licencia
 Este proyecto es software libre y se distribuye bajo la licencia GPL V3. 
