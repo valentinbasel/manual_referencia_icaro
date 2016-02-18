@@ -1,0 +1,506 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Proyecto ICARO, Documentación 0 documentation</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Welcome to Proyecto ICARO, Documentación&#39;s documentation!</text>
+      </navLabel>
+      <content src="index.html" />
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>Introducción</text>
+      </navLabel>
+      <content src="introduccion.html" />
+      <navPoint id="navPoint3" playOrder="2">
+        <navLabel>
+          <text>Introducción</text>
+        </navLabel>
+        <content src="introduccion.html" />
+      </navPoint>
+      <navPoint id="navPoint4" playOrder="3">
+        <navLabel>
+          <text>software libre en la educación</text>
+        </navLabel>
+        <content src="introduccion.html#software-libre-en-la-educacion" />
+      </navPoint>
+      <navPoint id="navPoint5" playOrder="4">
+        <navLabel>
+          <text>hardware libre</text>
+        </navLabel>
+        <content src="introduccion.html#hardware-libre" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint6" playOrder="5">
+      <navLabel>
+        <text>placa robotica np07</text>
+      </navLabel>
+      <content src="np07.html" />
+      <navPoint id="navPoint7" playOrder="5">
+        <navLabel>
+          <text>placa robotica np07</text>
+        </navLabel>
+        <content src="np07.html" />
+      </navPoint>
+      <navPoint id="navPoint8" playOrder="6">
+        <navLabel>
+          <text>caracteristicas tecnicas</text>
+        </navLabel>
+        <content src="np07.html#caracteristicas-tecnicas" />
+      </navPoint>
+      <navPoint id="navPoint9" playOrder="7">
+        <navLabel>
+          <text>listado de componentes</text>
+        </navLabel>
+        <content src="np07.html#listado-de-componentes" />
+      </navPoint>
+      <navPoint id="navPoint10" playOrder="8">
+        <navLabel>
+          <text>herramientas</text>
+        </navLabel>
+        <content src="np07.html#herramientas" />
+      </navPoint>
+      <navPoint id="navPoint11" playOrder="9">
+        <navLabel>
+          <text>fabricacion</text>
+        </navLabel>
+        <content src="np07.html#fabricacion" />
+        <navPoint id="navPoint12" playOrder="9">
+          <navLabel>
+            <text>fabricacion</text>
+          </navLabel>
+          <content src="np07.html#fabricacion" />
+        </navPoint>
+        <navPoint id="navPoint13" playOrder="10">
+          <navLabel>
+            <text>paso 0</text>
+          </navLabel>
+          <content src="np07.html#paso-0" />
+        </navPoint>
+        <navPoint id="navPoint14" playOrder="11">
+          <navLabel>
+            <text>paso 1</text>
+          </navLabel>
+          <content src="np07.html#paso-1" />
+        </navPoint>
+        <navPoint id="navPoint15" playOrder="12">
+          <navLabel>
+            <text>paso 2</text>
+          </navLabel>
+          <content src="np07.html#paso-2" />
+        </navPoint>
+        <navPoint id="navPoint16" playOrder="13">
+          <navLabel>
+            <text>paso 3</text>
+          </navLabel>
+          <content src="np07.html#paso-3" />
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="14">
+          <navLabel>
+            <text>paso 4</text>
+          </navLabel>
+          <content src="np07.html#paso-4" />
+        </navPoint>
+        <navPoint id="navPoint18" playOrder="15">
+          <navLabel>
+            <text>paso 5</text>
+          </navLabel>
+          <content src="np07.html#paso-5" />
+        </navPoint>
+        <navPoint id="navPoint19" playOrder="16">
+          <navLabel>
+            <text>paso 6</text>
+          </navLabel>
+          <content src="np07.html#paso-6" />
+        </navPoint>
+        <navPoint id="navPoint20" playOrder="17">
+          <navLabel>
+            <text>paso 7</text>
+          </navLabel>
+          <content src="np07.html#paso-7" />
+        </navPoint>
+        <navPoint id="navPoint21" playOrder="18">
+          <navLabel>
+            <text>paso 8</text>
+          </navLabel>
+          <content src="np07.html#paso-8" />
+        </navPoint>
+        <navPoint id="navPoint22" playOrder="19">
+          <navLabel>
+            <text>paso 9</text>
+          </navLabel>
+          <content src="np07.html#paso-9" />
+        </navPoint>
+        <navPoint id="navPoint23" playOrder="20">
+          <navLabel>
+            <text>paso 10</text>
+          </navLabel>
+          <content src="np07.html#paso-10" />
+        </navPoint>
+        <navPoint id="navPoint24" playOrder="21">
+          <navLabel>
+            <text>paso 11</text>
+          </navLabel>
+          <content src="np07.html#paso-11" />
+        </navPoint>
+        <navPoint id="navPoint25" playOrder="22">
+          <navLabel>
+            <text>paso 12</text>
+          </navLabel>
+          <content src="np07.html#paso-12" />
+        </navPoint>
+        <navPoint id="navPoint26" playOrder="23">
+          <navLabel>
+            <text>paso 13</text>
+          </navLabel>
+          <content src="np07.html#paso-13" />
+        </navPoint>
+        <navPoint id="navPoint27" playOrder="24">
+          <navLabel>
+            <text>paso 14</text>
+          </navLabel>
+          <content src="np07.html#paso-14" />
+        </navPoint>
+        <navPoint id="navPoint28" playOrder="25">
+          <navLabel>
+            <text>paso 15</text>
+          </navLabel>
+          <content src="np07.html#paso-15" />
+        </navPoint>
+        <navPoint id="navPoint29" playOrder="26">
+          <navLabel>
+            <text>paso 16</text>
+          </navLabel>
+          <content src="np07.html#paso-16" />
+        </navPoint>
+        <navPoint id="navPoint30" playOrder="27">
+          <navLabel>
+            <text>paso 17</text>
+          </navLabel>
+          <content src="np07.html#paso-17" />
+        </navPoint>
+        <navPoint id="navPoint31" playOrder="28">
+          <navLabel>
+            <text>paso 18</text>
+          </navLabel>
+          <content src="np07.html#paso-18" />
+        </navPoint>
+        <navPoint id="navPoint32" playOrder="29">
+          <navLabel>
+            <text>paso 19</text>
+          </navLabel>
+          <content src="np07.html#paso-19" />
+        </navPoint>
+        <navPoint id="navPoint33" playOrder="30">
+          <navLabel>
+            <text>paso 20</text>
+          </navLabel>
+          <content src="np07.html#paso-20" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint34" playOrder="31">
+      <navLabel>
+        <text>icaro-bloques</text>
+      </navLabel>
+      <content src="icaro_bloques.html" />
+      <navPoint id="navPoint35" playOrder="31">
+        <navLabel>
+          <text>icaro-bloques</text>
+        </navLabel>
+        <content src="icaro_bloques.html" />
+      </navPoint>
+      <navPoint id="navPoint36" playOrder="32">
+        <navLabel>
+          <text>barra de herramientas</text>
+        </navLabel>
+        <content src="icaro_bloques.html#barra-de-herramientas" />
+      </navPoint>
+      <navPoint id="navPoint37" playOrder="33">
+        <navLabel>
+          <text>barra de componentes</text>
+        </navLabel>
+        <content src="icaro_bloques.html#barra-de-componentes" />
+      </navPoint>
+      <navPoint id="navPoint38" playOrder="34">
+        <navLabel>
+          <text>editor  de bloques</text>
+        </navLabel>
+        <content src="icaro_bloques.html#editor-de-bloques" />
+      </navPoint>
+      <navPoint id="navPoint39" playOrder="35">
+        <navLabel>
+          <text>editor de codigo fuente</text>
+        </navLabel>
+        <content src="icaro_bloques.html#editor-de-codigo-fuente" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint40" playOrder="36">
+      <navLabel>
+        <text>trabajando con icaro-bloques</text>
+      </navLabel>
+      <content src="icaro_bloques_2.html" />
+      <navPoint id="navPoint41" playOrder="36">
+        <navLabel>
+          <text>trabajando con icaro-bloques</text>
+        </navLabel>
+        <content src="icaro_bloques_2.html" />
+      </navPoint>
+      <navPoint id="navPoint42" playOrder="37">
+        <navLabel>
+          <text>compilando un proyecto</text>
+        </navLabel>
+        <content src="icaro_bloques_2.html#compilando-un-proyecto" />
+      </navPoint>
+      <navPoint id="navPoint43" playOrder="38">
+        <navLabel>
+          <text>cargando el firmware a la placa</text>
+        </navLabel>
+        <content src="icaro_bloques_2.html#cargando-el-firmware-a-la-placa" />
+      </navPoint>
+      <navPoint id="navPoint44" playOrder="39">
+        <navLabel>
+          <text>referencias de los bloques</text>
+        </navLabel>
+        <content src="icaro_bloques_2.html#referencias-de-los-bloques" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint45" playOrder="40">
+      <navLabel>
+        <text>guia de ejemplos</text>
+      </navLabel>
+      <content src="ejemplos.html" />
+      <navPoint id="navPoint46" playOrder="40">
+        <navLabel>
+          <text>guia de ejemplos</text>
+        </navLabel>
+        <content src="ejemplos.html" />
+      </navPoint>
+      <navPoint id="navPoint47" playOrder="41">
+        <navLabel>
+          <text>usando LEDS</text>
+        </navLabel>
+        <content src="ejemplos.html#usando-leds" />
+        <navPoint id="navPoint48" playOrder="41">
+          <navLabel>
+            <text>usando LEDS</text>
+          </navLabel>
+          <content src="ejemplos.html#usando-leds" />
+        </navPoint>
+        <navPoint id="navPoint49" playOrder="42">
+          <navLabel>
+            <text>Ejemplo 01</text>
+          </navLabel>
+          <content src="ejemplos.html#ejemplo-01" />
+        </navPoint>
+        <navPoint id="navPoint50" playOrder="43">
+          <navLabel>
+            <text>ejemplo 02</text>
+          </navLabel>
+          <content src="ejemplos.html#ejemplo-02" />
+        </navPoint>
+        <navPoint id="navPoint51" playOrder="44">
+          <navLabel>
+            <text>Ejemplo 03</text>
+          </navLabel>
+          <content src="ejemplos.html#ejemplo-03" />
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="45">
+          <navLabel>
+            <text>ejemplo 04</text>
+          </navLabel>
+          <content src="ejemplos.html#ejemplo-04" />
+        </navPoint>
+        <navPoint id="navPoint53" playOrder="46">
+          <navLabel>
+            <text>Ejemplo 05</text>
+          </navLabel>
+          <content src="ejemplos.html#ejemplo-05" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint54" playOrder="47">
+        <navLabel>
+          <text>usando motores CC</text>
+        </navLabel>
+        <content src="ejemplos.html#usando-motores-cc" />
+        <navPoint id="navPoint55" playOrder="47">
+          <navLabel>
+            <text>usando motores CC</text>
+          </navLabel>
+          <content src="ejemplos.html#usando-motores-cc" />
+        </navPoint>
+        <navPoint id="navPoint56" playOrder="48">
+          <navLabel>
+            <text>hola mundo</text>
+          </navLabel>
+          <content src="ejemplos.html#hola-mundo" />
+        </navPoint>
+        <navPoint id="navPoint57" playOrder="49">
+          <navLabel>
+            <text>hola mundo 2</text>
+          </navLabel>
+          <content src="ejemplos.html#hola-mundo-2" />
+        </navPoint>
+        <navPoint id="navPoint58" playOrder="50">
+          <navLabel>
+            <text>Ejemplo 01</text>
+          </navLabel>
+          <content src="ejemplos.html#id1" />
+        </navPoint>
+        <navPoint id="navPoint59" playOrder="51">
+          <navLabel>
+            <text>ejemplo 02</text>
+          </navLabel>
+          <content src="ejemplos.html#id2" />
+        </navPoint>
+        <navPoint id="navPoint60" playOrder="52">
+          <navLabel>
+            <text>Ejemplo 03</text>
+          </navLabel>
+          <content src="ejemplos.html#id3" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint61" playOrder="53">
+        <navLabel>
+          <text>usando comunicación CDC</text>
+        </navLabel>
+        <content src="ejemplos.html#usando-comunicacion-cdc" />
+        <navPoint id="navPoint62" playOrder="53">
+          <navLabel>
+            <text>usando comunicación CDC</text>
+          </navLabel>
+          <content src="ejemplos.html#usando-comunicacion-cdc" />
+        </navPoint>
+        <navPoint id="navPoint63" playOrder="54">
+          <navLabel>
+            <text>hola mundo</text>
+          </navLabel>
+          <content src="ejemplos.html#id4" />
+        </navPoint>
+        <navPoint id="navPoint64" playOrder="55">
+          <navLabel>
+            <text>Ejemplo 01</text>
+          </navLabel>
+          <content src="ejemplos.html#id5" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint65" playOrder="56">
+        <navLabel>
+          <text>usando una pantalla LCD</text>
+        </navLabel>
+        <content src="ejemplos.html#usando-una-pantalla-lcd" />
+        <navPoint id="navPoint66" playOrder="56">
+          <navLabel>
+            <text>usando una pantalla LCD</text>
+          </navLabel>
+          <content src="ejemplos.html#usando-una-pantalla-lcd" />
+        </navPoint>
+        <navPoint id="navPoint67" playOrder="57">
+          <navLabel>
+            <text>Ejemplo 01</text>
+          </navLabel>
+          <content src="ejemplos.html#id6" />
+        </navPoint>
+        <navPoint id="navPoint68" playOrder="58">
+          <navLabel>
+            <text>ejemplo 02</text>
+          </navLabel>
+          <content src="ejemplos.html#id7" />
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint69" playOrder="59">
+        <navLabel>
+          <text>usando un sensor hc-sr04</text>
+        </navLabel>
+        <content src="ejemplos.html#usando-un-sensor-hc-sr04" />
+        <navPoint id="navPoint70" playOrder="59">
+          <navLabel>
+            <text>usando un sensor hc-sr04</text>
+          </navLabel>
+          <content src="ejemplos.html#usando-un-sensor-hc-sr04" />
+        </navPoint>
+        <navPoint id="navPoint71" playOrder="60">
+          <navLabel>
+            <text>ping</text>
+          </navLabel>
+          <content src="ejemplos.html#ping" />
+        </navPoint>
+        <navPoint id="navPoint72" playOrder="61">
+          <navLabel>
+            <text>ping CDC</text>
+          </navLabel>
+          <content src="ejemplos.html#ping-cdc" />
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint73" playOrder="62">
+      <navLabel>
+        <text>python</text>
+      </navLabel>
+      <content src="python.html" />
+      <navPoint id="navPoint74" playOrder="62">
+        <navLabel>
+          <text>python</text>
+        </navLabel>
+        <content src="python.html" />
+      </navPoint>
+      <navPoint id="navPoint75" playOrder="63">
+        <navLabel>
+          <text>cargando firmware tortucaro</text>
+        </navLabel>
+        <content src="python.html#cargando-firmware-tortucaro" />
+      </navPoint>
+      <navPoint id="navPoint76" playOrder="64">
+        <navLabel>
+          <text>apicaro</text>
+        </navLabel>
+        <content src="python.html#apicaro" />
+      </navPoint>
+      <navPoint id="navPoint77" playOrder="65">
+        <navLabel>
+          <text>referencia apicaro</text>
+        </navLabel>
+        <content src="python.html#referencia-apicaro" />
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint78" playOrder="66">
+      <navLabel>
+        <text>clemente</text>
+      </navLabel>
+      <content src="clemente.html" />
+      <navPoint id="navPoint79" playOrder="66">
+        <navLabel>
+          <text>clemente</text>
+        </navLabel>
+        <content src="clemente.html" />
+      </navPoint>
+      <navPoint id="navPoint80" playOrder="67">
+        <navLabel>
+          <text>activando servidor clemente</text>
+        </navLabel>
+        <content src="clemente.html#activando-servidor-clemente" />
+      </navPoint>
+      <navPoint id="navPoint81" playOrder="68">
+        <navLabel>
+          <text>cargando firmware PILAS</text>
+        </navLabel>
+        <content src="clemente.html#cargando-firmware-pilas" />
+      </navPoint>
+      <navPoint id="navPoint82" playOrder="69">
+        <navLabel>
+          <text>graficador</text>
+        </navLabel>
+        <content src="clemente.html#graficador" />
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

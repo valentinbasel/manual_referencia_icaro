@@ -3,6 +3,8 @@
 #Instalación
 Antes que nada vamos a instalar el software necesario para que puedas compilar y generar la documentación!
 
+### UBUNTU
+
 ### Instalamos librerías
 
     sudo apt-get install texlive-fonts-recommended texlive-latex-extra
@@ -10,6 +12,17 @@ Antes que nada vamos a instalar el software necesario para que puedas compilar y
 ### Instalamos Sphinx
 
     sudo apt-get install python-sphinx
+
+### FEDORA
+Para instalarlo en Fedora GNU/Linux
+
+### Instalamos Sphinx y los modulos de Texlive para poder compilar en PDF 
+
+    sudo dnf install -y python-sphinx git texlive
+
+### Instalamos las fuentes de texlive
+
+    sudo dnf -y texlive-titlesec texlive-framed texlive-threeparttable texlive-wrapfig texlive-upquote texlive-multirow 
 
 # Edición de la documentación
 Ahora sí! manos a la obra! 
