@@ -18,11 +18,11 @@ Para instalarlo en Fedora GNU/Linux
 
 ### Instalamos Sphinx y los modulos de Texlive para poder compilar en PDF 
 
-    sudo dnf install -y python-sphinx git texlive
+    sudo dnf -y install python-sphinx git texlive
 
 ### Instalamos las fuentes de texlive
 
-    sudo dnf -y texlive-titlesec texlive-framed texlive-threeparttable texlive-wrapfig texlive-upquote texlive-multirow 
+    sudo dnf -y install texlive-titlesec texlive-framed texlive-threeparttable texlive-wrapfig texlive-upquote texlive-multirow 
 
 # Edición de la documentación
 Ahora sí! manos a la obra! 
