@@ -50,8 +50,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Proyecto ICARO, Documentación'
-copyright = u'2016, Valentin Basel'
+project = u'Manual de ensambaldo de la placa NP07'
+copyright = u'2016, Mateo Carabajal'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -203,8 +203,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'ProyectoICARODocumentacin.tex', u'Proyecto ICARO, Documentación Documentation',
-   u'Valentin Basel', 'manual'),
+  ('index', 'ProyectoICARODocumentacin.tex', u'Manual de ensamblado de la placa NP07',
+   u'Mateo Carabajal', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -233,8 +233,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'proyectoicarodocumentacin', u'Proyecto ICARO, Documentación Documentation',
-     [u'Valentin Basel'], 1)
+    ('index', 'proyectoicarodocumentacin', u'Manual de ensamblado de la placa NP07',
+     [u'Mateo Carabajal'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -247,8 +247,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ProyectoICARODocumentacin', u'Proyecto ICARO, Documentación Documentation',
-   u'Valentin Basel', 'ProyectoICARODocumentacin', 'One line description of project.',
+  ('index', 'ProyectoICARODocumentacin', u'Manual de ensamblado de la placa NP07',
+   u'Mateo Carabajal', 'ProyectoICARODocumentacin', 'One line description of project.',
    'Miscellaneous'),
 ]
 

@@ -3,12 +3,18 @@
 placa robotica |pcb|
 ====================
 
-El hardware |pcb| 
+El hardware |pcb| esta basado en el micro controlador 18f4550 (o 18f2550), un
+hardware con un bootloader y librerias usados en el proyecto PINGUINO.
 
 caracteristicas tecnicas
 ------------------------
 
-bla
+la placa |pcb| cuentac con:
+- 8 conversores analogicos (el micro controlador soporta 10)
+- 4 entradas para sensores digitales
+- 8 salidas digitales al PORTB (UNL2803)
+- 2 salidas para motores de corriente continua ( L293B)
+- 5 salidas de PWM para Servos (el micro controlador soporta hasa 18)
 
 listado de componentes
 ----------------------

@@ -11,12 +11,5 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   introduccion.rst
    np07.rst
-   icaro_bloques.rst
-   icaro_bloques_2.rst
-   ejemplos.rst
-   python.rst
-   clemente.rst
-   
 

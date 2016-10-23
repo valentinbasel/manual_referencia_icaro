@@ -1,31 +1,5 @@
-\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
-\BOOKMARK [1][-]{section.1.1}{software libre en la educaci\363n}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{hardware libre}{chapter.1}% 3
-\BOOKMARK [0][-]{chapter.2}{placa robotica np07}{}% 4
-\BOOKMARK [1][-]{section.2.1}{caracteristicas tecnicas}{chapter.2}% 5
-\BOOKMARK [1][-]{section.2.2}{listado de componentes}{chapter.2}% 6
-\BOOKMARK [1][-]{section.2.3}{herramientas}{chapter.2}% 7
-\BOOKMARK [1][-]{section.2.4}{fabricacion}{chapter.2}% 8
-\BOOKMARK [0][-]{chapter.3}{icaro-bloques}{}% 9
-\BOOKMARK [1][-]{section.3.1}{barra de herramientas}{chapter.3}% 10
-\BOOKMARK [1][-]{section.3.2}{barra de componentes}{chapter.3}% 11
-\BOOKMARK [1][-]{section.3.3}{editor de bloques}{chapter.3}% 12
-\BOOKMARK [1][-]{section.3.4}{editor de codigo fuente}{chapter.3}% 13
-\BOOKMARK [0][-]{chapter.4}{trabajando con icaro-bloques}{}% 14
-\BOOKMARK [1][-]{section.4.1}{compilando un proyecto}{chapter.4}% 15
-\BOOKMARK [1][-]{section.4.2}{cargando el firmware a la placa}{chapter.4}% 16
-\BOOKMARK [1][-]{section.4.3}{referencias de los bloques}{chapter.4}% 17
-\BOOKMARK [0][-]{chapter.5}{guia de ejemplos}{}% 18
-\BOOKMARK [1][-]{section.5.1}{usando LEDS}{chapter.5}% 19
-\BOOKMARK [1][-]{section.5.2}{usando motores CC}{chapter.5}% 20
-\BOOKMARK [1][-]{section.5.3}{usando comunicaci\363n CDC}{chapter.5}% 21
-\BOOKMARK [1][-]{section.5.4}{usando una pantalla LCD}{chapter.5}% 22
-\BOOKMARK [1][-]{section.5.5}{usando un sensor hc-sr04}{chapter.5}% 23
-\BOOKMARK [0][-]{chapter.6}{python}{}% 24
-\BOOKMARK [1][-]{section.6.1}{cargando firmware tortucaro}{chapter.6}% 25
-\BOOKMARK [1][-]{section.6.2}{apicaro}{chapter.6}% 26
-\BOOKMARK [1][-]{section.6.3}{referencia apicaro}{chapter.6}% 27
-\BOOKMARK [0][-]{chapter.7}{clemente}{}% 28
-\BOOKMARK [1][-]{section.7.1}{activando servidor clemente}{chapter.7}% 29
-\BOOKMARK [1][-]{section.7.2}{cargando firmware PILAS}{chapter.7}% 30
-\BOOKMARK [1][-]{section.7.3}{graficador}{chapter.7}% 31
+\BOOKMARK [0][-]{chapter.1}{\376\377\000p\000l\000a\000c\000a\000\040\000r\000o\000b\000o\000t\000i\000c\000a\000\040\000n\000p\0000\0007}{}% 1
+\BOOKMARK [1][-]{section.1.1}{\376\377\000c\000a\000r\000a\000c\000t\000e\000r\000i\000s\000t\000i\000c\000a\000s\000\040\000t\000e\000c\000n\000i\000c\000a\000s}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{\376\377\000l\000i\000s\000t\000a\000d\000o\000\040\000d\000e\000\040\000c\000o\000m\000p\000o\000n\000e\000n\000t\000e\000s}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{\376\377\000h\000e\000r\000r\000a\000m\000i\000e\000n\000t\000a\000s}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.4}{\376\377\000f\000a\000b\000r\000i\000c\000a\000c\000i\000o\000n}{chapter.1}% 5
